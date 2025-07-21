@@ -1,0 +1,6 @@
+love=th�ch
+is=la
+hello=xin ch�o
+my=t�i
+class=l?p
+home=nha
